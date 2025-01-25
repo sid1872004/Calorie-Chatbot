@@ -28,8 +28,6 @@ Nutritionix API: Sign up with Nutritionix API to get your API key and App ID
 
 Google Generative AI API: To get your Google Generative AI API key, go to the Google Cloud Console and create a new project, followed by enabling the Generative AI API.
 
-আপনি স্ক্রিপ্টে এপিআই কী সেট করুন:
-
 You would replace "AIzaSyCo_F_JDyyIeB2FXQ1Cl10zQS-C-C2NJu0" with your actual Google Generative AI API key.
 
 Nutritionix App ID: <-- Replace 1b64d367 with your App ID.
